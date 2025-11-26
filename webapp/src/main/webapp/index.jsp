@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Nazaha is my firstborn</h1>
+    <h1>Welcome to the Malgus clan</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
