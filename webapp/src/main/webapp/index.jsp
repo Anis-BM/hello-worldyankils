@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome New User To the Clan of Power The Malgus Clan</h1>
+    <h1>The Galaxy Burns as the Malgus Clan Rises</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
